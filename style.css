@@ -1192,3 +1192,19 @@ body {
 .not-loaded * {
     animation-play-state: paused !important;
 }
+
+audio {
+    z-index: 1;
+    margin-bottom: 800px;
+    width: 100px;
+    margin-left: -500px;
+}
+
+h1 {
+    z-index: 1;
+    color: white;
+    display: flex;
+    margin-bottom: 900px;
+    margin-right: 250px;
+}
+
