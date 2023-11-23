@@ -1193,11 +1193,3 @@ body {
     animation-play-state: paused !important;
 }
 
-
-h1 {
-    z-index: 1;
-    color: white;
-    display: flex;
-    margin-bottom: 900px;
-}
-
