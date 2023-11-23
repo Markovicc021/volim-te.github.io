@@ -19,6 +19,7 @@ body {
     overflow: hidden;
     perspective: 1000px;
     height: 100vh;
+    margin: auto;
 }
 
 
@@ -1193,3 +1194,11 @@ body {
     animation-play-state: paused !important;
 }
 
+
+h1 {
+    z-index: 1;
+    color: white;
+    display: flex;
+    margin-bottom: 900px;
+
+}
